@@ -3,7 +3,7 @@
 
 __*Guia do Repositório*__
 
-1. [__Filtros__](https://github.com/Gabrielmarcial/Computer-Vision/blob/main/filter.py) : 
+1. [Masterclass Computer Vision](https://github.com/Gabrielmarcial/Computer-Vision/blob/main/filter.py) : Projetos realizados no Masterclass de visão computacional do sigmoidal. 
 
 
  ---

@@ -4,7 +4,7 @@
 __*Guia do Repositório*__
 
 
-1. [filter](https://github.com/Gabrielmarcial/Computer-Vision/tree/main/Masterclass_Computer%20Vision) : Projeto de aplicação de filtros com Streamlit e OpenCV(Projeto da Mastreclass de Visão computacional do sigmoidal). 
+1. [filter](https://github.com/Gabrielmarcial/Computer-Vision/tree/main/Filtros/Projeto_1_Filtros) : Projeto de aplicação de filtros com Streamlit e OpenCV(Projeto da Mastreclass de Visão computacional do sigmoidal). 
 
 
  ---

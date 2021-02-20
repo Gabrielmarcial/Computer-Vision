@@ -3,7 +3,8 @@
 
 __*Guia do Repositório*__
 
-1. [Masterclass Computer Vision](https://github.com/Gabrielmarcial/Computer-Vision/tree/main/Masterclass_Computer%20Vision) : Projetos realizados no Masterclass de visão computacional do sigmoidal. 
+
+1. [filter](https://github.com/Gabrielmarcial/Computer-Vision/tree/main/Masterclass_Computer%20Vision) : Projeto de aplicação de filtros com Streamlit e OpenCV(Projeto da Mastreclass de Visão computacional do sigmoidal). 
 
 
  ---
